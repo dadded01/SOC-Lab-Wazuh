@@ -18,8 +18,8 @@
 > **Status: 🚧 Work in Progress** > Currently building a home-lab SOC environment to monitor Windows endpoints and analyze security events.
 
 ## 📍 Project Roadmap
-[x] Static Network & Ubuntu Server setup (Netplan troubleshooting)
-[x] Wazuh Manager All-in-One installation
-[x] Advanced Telemetry integration (Sysmon with SwiftOnSecurity config)
-[ ] **Next Step:** Endpoint enrollment & Agent deployment
-[ ] **Future:** Attack simulation with Kali Linux & Threat Hunting
+- [x] Static Network & Ubuntu Server setup (Netplan troubleshooting)
+- [x] Wazuh Manager All-in-One installation
+- [x] Advanced Telemetry integration (Sysmon with SwiftOnSecurity config)
+- [ ] **Next Step:** Endpoint enrollment & Agent deployment
+- [ ] **Future:** Attack simulation with Kali Linux & Threat Hunting
