@@ -2,8 +2,8 @@
 ### A professional SOC Home Lab for end-to-end security monitoring, threat detection, and attack validation using Wazuh XDR and Sysmon
 
 ##### Configuration of the virtual machines and network
-- [VirtualBox Configuration](./Setup/VM_Initial_Build)
-- [Network Setup](./Setup/Network_config)
+- [VirtualBox Configuration](./Setup/VM_Initial_Build.md)
+- [Network Setup](./Setup/Network_config.md)
 
 ---
 ##### XDR installation and configuration
@@ -11,7 +11,7 @@
 
 ---
 ##### Advanced system monitoring installation and configuration
-- [Sysmon](./Soc%20Configuration/Sysmon)
+- [Sysmon](./Soc%20Configuration/Sysmon.md)
 
 ---
 
