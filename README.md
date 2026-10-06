@@ -21,5 +21,5 @@
 - [x] Static Network & Ubuntu Server setup (Netplan troubleshooting)
 - [x] Wazuh Manager All-in-One installation
 - [x] Advanced Telemetry integration (Sysmon with SwiftOnSecurity config)
-- [x] **Next Step:** Endpoint enrollment & Agent deployment
-- [ ] **Future:** Attack simulation with Kali Linux & Threat Hunting
+- [x] Endpoint enrollment & Agent deployment
+- [ ] **Next Step:** Attack simulation with Kali Linux & Threat Hunting
