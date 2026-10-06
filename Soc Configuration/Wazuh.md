@@ -31,10 +31,7 @@ To ingest granular telemetry for detection engineering and threat hunting, the a
 1. Open the agent configuration file with administrative privileges:
 	`notepad.exe "C:\Program Files (x86)\ossec-agent\ossec.conf"`
 2. Inside the `<ossec_config>` section, append a new `<localfile>` block targeting the Sysmon operational channel via the modern Windows Event Log API
-	`<localfile>`
-	  `<location>Microsoft-Windows-Sysmon/Operational</location>`
-	  `<log_format>eventchannel</log_format>`
-	`</localfile>`
+	`<localfile>`<br>`<location>Microsoft-Windows-Sysmon/Operational</location>`<br>`<log_format>eventchannel</log_format>`<br>`</localfile>`
 3. Restart the Wazuh agent service via PowerShell to apply the changes:
 	`Restart-Service WazuhSvc`
 
